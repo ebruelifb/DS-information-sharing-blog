@@ -4,6 +4,7 @@ This project includes the implemantation of a blog. The content of the blog shou
 
 To-DOs: 
 
+
 Client:
 - getBlogEntries():
 	- Anfrage an Server, Server soll Blog-Einträge übermitteln
